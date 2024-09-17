@@ -1,0 +1,41 @@
+body{
+    background-color: #2A5D5A;
+    width:1440px;
+    height: 1024px;
+}
+h1{
+    background-color: #311313;
+    color: white;
+  
+   padding: 10px;
+    margin-top: 22px;
+    margin-left: 450px;
+    text-align: center;
+    font-size: 50px;
+    width: 500px;
+
+}
+.box{
+    background-color: black;
+    border:10px solid #FF0606;
+    margin-left: 290px;
+    width: 800px;
+
+
+
+
+}
+.box1{
+    background-color:  #1FE8B7;
+    margin: 50px;
+   width: 600px;
+   padding: 50px;
+}
+.box2{
+    background-color:  #1FE8B7;
+    margin: 50px;
+   width: 600px;
+   padding: 50px;
+   
+   
+}
